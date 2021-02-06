@@ -1,0 +1,24 @@
+.navButton {
+  text-decoration: none;
+  color: #252525;
+  border: none;
+  background-color: blueviolet;
+  margin: 0.5rem;
+  padding: 0.6rem 1rem;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  transition: 0.2s;
+}
+
+.navButton:hover {
+  background-color: #fff;
+  color: blueviolet;
+}
+
+.header {
+  box-sizing: border-box;
+  padding: 1.5rem 1rem;
+  width: 100%;
+}
